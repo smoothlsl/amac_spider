@@ -10,10 +10,13 @@ MonGO_TABLE_1 = 'fundinfo'
 MonGO_TABLE_1 = 'managerinfo'
 ```
 
-## data structure
+## fund data structure
 
 
 ![](https://gitee.com/smoothlsl/img/raw/master/images/YKTJGNNDE`@[]RAF4~}{87Q.png)
+
+
+## manager data structure
 
 
 ![](https://gitee.com/smoothlsl/img/raw/master/images/RL678O9$TL1V(OQVQT]SD~2.png)
