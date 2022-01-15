@@ -13,10 +13,10 @@ MonGO_TABLE_1 = 'managerinfo'
 ## fund data structure
 
 
-![](https://gitee.com/smoothlsl/img/raw/master/images/YKTJGNNDE`@[]RAF4~}{87Q.png)
+![](https://gitee.com/smoothlsl/img/raw/master/images/fund_data.png)
 
 
 ## manager data structure
 
 
-![](https://gitee.com/smoothlsl/img/raw/master/images/RL678O9$TL1V(OQVQT]SD~2.png)
+![](https://gitee.com/smoothlsl/img/raw/master/images/manager_data.png)
